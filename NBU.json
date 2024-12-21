@@ -1,0 +1,194 @@
+[
+    {
+        "title": "UAE Dirham",
+        "code": "AED",
+        "cb_price": "3479.47",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Australian Dollar",
+        "code": "AUD",
+        "cb_price": "8395.24",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Canadian Dollar",
+        "code": "CAD",
+        "cb_price": "9181.76",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Swiss Franc",
+        "code": "CHF",
+        "cb_price": "14767.84",
+        "nbu_buy_price": "14550.00",
+        "nbu_cell_price": "15250.00",
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Chinese Yuan",
+        "code": "CNY",
+        "cb_price": "1795.54",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Danish Krone",
+        "code": "DKK",
+        "cb_price": "1861.58",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Egyptian Pound",
+        "code": "EGP",
+        "cb_price": "261.30",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "EURO",
+        "code": "EUR",
+        "cb_price": "13889.40",
+        "nbu_buy_price": "13740.00",
+        "nbu_cell_price": "13930.00",
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "British Pound",
+        "code": "GBP",
+        "cb_price": "16592.39",
+        "nbu_buy_price": "16400.00",
+        "nbu_cell_price": "17100.00",
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Iceland Krone",
+        "code": "ISK",
+        "cb_price": "93.53",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Japanese Yen",
+        "code": "JPY",
+        "cb_price": "83.77",
+        "nbu_buy_price": "70.00",
+        "nbu_cell_price": "90.00",
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "South Korean Won",
+        "code": "KRW",
+        "cb_price": "9.27",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Kuwaiti Dinar",
+        "code": "KWD",
+        "cb_price": "41683.27",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Kazakhstan Tenge",
+        "code": "KZT",
+        "cb_price": "26.16",
+        "nbu_buy_price": "15.00",
+        "nbu_cell_price": "27.00",
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Lebanese Pound",
+        "code": "LBP",
+        "cb_price": "0.14",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Malaysian Ringgit",
+        "code": "MYR",
+        "cb_price": "2918.50",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Norwegian Krone",
+        "code": "NOK",
+        "cb_price": "1165.52",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Polish Zloty",
+        "code": "PLN",
+        "cb_price": "3190.56",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Russian Rouble",
+        "code": "RUB",
+        "cb_price": "131.67",
+        "nbu_buy_price": "120.00",
+        "nbu_cell_price": "140.00",
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Swedish Krone",
+        "code": "SEK",
+        "cb_price": "1196.56",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Singapore Dollar",
+        "code": "SGD",
+        "cb_price": "9670.90",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "New Turkish Lira",
+        "code": "TRY",
+        "cb_price": "373.15",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "Ukrainian Hryvnia",
+        "code": "UAH",
+        "cb_price": "310.04",
+        "nbu_buy_price": null,
+        "nbu_cell_price": null,
+        "date": "11/01/2024 06:00:02 pm"
+    },
+    {
+        "title": "US Dollar",
+        "code": "USD",
+        "cb_price": "12780.09",
+        "nbu_buy_price": "12750.00",
+        "nbu_cell_price": "12800.00",
+        "date": "11/01/2024 06:00:02 pm"
+    }
+]

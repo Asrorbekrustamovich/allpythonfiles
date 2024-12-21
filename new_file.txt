@@ -1,0 +1,9 @@
+bu birinchi qator
+bu ikkinchi qatorbu birinchi qator
+bu ikkinchi qatorbu birinchi qator
+bu ikkinchi qatorRed
+Green
+White
+Black
+Pink
+Yellow
